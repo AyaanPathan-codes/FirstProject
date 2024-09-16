@@ -1,0 +1,9 @@
+.main{
+    background-color: black;
+}div #c1::before{
+    background-color: black;
+}
+div #c1:hover{
+    background-color: aqua;
+
+}
